@@ -5,7 +5,7 @@
 <br>
 <span style="color:gray">[OpenDataFest 2017](http://www.opendatafest.it) - Caltanissetta</span>
 
-<div style="background-color: white" >
+<div style="background-color: white; max-height: 300px" >
 ![LOGO](https://github.com/spaghetti-open-data/raduno17/raw/master/kit-comunicazione/logo/logo_opendatafest.png)
 </div>
 
