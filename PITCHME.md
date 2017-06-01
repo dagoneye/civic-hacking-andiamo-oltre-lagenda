@@ -5,9 +5,6 @@
 <br>
 <span style="color:gray">[OpenDataFest 2017](http://www.opendatafest.it) - Caltanissetta</span>
 
-<div style="background-color: white" >
-![LOGO](https://github.com/spaghetti-open-data/raduno17/raw/master/kit-comunicazione/logo/logo_opendatafest.png){:height="250px"}
-</div>
 
 ---
 
@@ -17,6 +14,7 @@
 - Passato recente: 2013, 2014, 2015 e 2016
 - 2017 ovviamente :)
 - Piani di rilascio dei dati: **quali dataset aprire?**
+- Piano triennale ICT: da leggere :)
 
 ---
 
@@ -31,9 +29,9 @@ C'è stato pure il comitato OT11/OT2, e che è?
 <pre>
                     2013    2014    2015    2016    2017
 
-AGID                _____________________
+AGID                ____________________________________________
 COMITATO OT11/OT2                     24/2/2015____
-FORUM OGP                                      6/6/2016_____
+FORUM OGP                                      6/6/2016_________
 TEAM DIGITALE                                      29/9/2016____ 
 </pre>
 
@@ -44,15 +42,22 @@ Se volete migliorarlo, meglio :)
 
 ### Serve esserci, ma a quali condizioni?
 
-<blockquote>la democrazia non è uno sport da spettatori. Se tutti stanno a guardare e nessuno partecipa, non funziona più. - Michael Moore</blockquote>
+<blockquote style="padding:25px">la democrazia non è uno sport da spettatori. Se tutti stanno a guardare e nessuno partecipa, non funziona più. - Michael Moore</blockquote>
+
+
+---
+
+### Monitoraggio e risposte
+
+Servono dove ci sono delle porte aperte.
 
 
 ---
 
 ### Oltre l'agenda
 
-<p>E se allarghiamo lo sguardo?</p>
-Partiamo dalla domanda di dati e  da qualcosa che interessi e includa più persone, fuori dagli addetti ai lavori.</p>
+<p>E se allargassimo lo sguardo?</p>
+Partiamo dalla domanda di dati e da qualcosa che interessi e includa più persone, fuori dagli addetti ai lavori.</p>
 
 
 ---
@@ -62,7 +67,7 @@ Partiamo dalla domanda di dati e  da qualcosa che interessi e includa più perso
 - Ricostruzione Trasparente
 - Inchieste sulla salute (Rosy Battaglia con l'<strong>amianto</strong>), l'alimentazione...
 - Vaccini: la recente inchiesta di Wired di Riccardo Saporiti integrata a n richieste FOIA
-- quale inseriresti?
+- **quale inseriresti?**
 
 
 ---
@@ -70,4 +75,8 @@ Partiamo dalla domanda di dati e  da qualcosa che interessi e includa più perso
 ### Domanda di dati specifica come mezzo e non più come fine
 
 A cosa serve tutto questo?
+
+---
+
+Forse, a non dipendere più soltanto dalle agende: <br/> <strong> ci serve per fare più squadra</strong> e recuperare il fine vero: andare oltre
 
