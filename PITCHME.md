@@ -1,11 +1,11 @@
 
-#### Non fidarsi più dell'ennesima agenda: servono uno o più progetti di civic hacking
+#### Non fidarsi più dell'ennesima agenda: <br/> servono uno o più progetti di civic hacking
 <br>
 <span style="color:gray">Matteo Brunati</span>
 <br>
 <span style="color:gray">[OpenDataFest 2017](http://www.opendatafest.it) - Caltanissetta</span>
 
-![LOGO](https://github.com/spaghetti-open-data/raduno17/blob/master/kit-comunicazione/logo/logo_opendatafest.png)
+![LOGO](https://github.com/spaghetti-open-data/raduno17/raw/master/kit-comunicazione/logo/logo_opendatafest.png)
 
 ---
 
@@ -20,7 +20,7 @@
 
 ### Lo so, è difficile
 
-C'è stato pure il comitato OT11/OT2 
+C'è stato pure il comitato OT11/OT2, e che cappero è?
 
 ---
 
@@ -37,23 +37,14 @@ Se volete migliorarlo, meglio :)
 
 ---
 
-<span style="color: #e49436">STEP 2. GIT-COMMIT</span>
+### Serve esserci, ma a quali condizioni?
 
-![TERMINAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/terminal.png)
 
-Git-commit on any branch and push your PITCHME.md to GitHub, GitLab or Bitbucket.
+
 
 ---
 
-<span style="color: #e49436">STEP 3. GET THE WORD OUT!</span>
 
-<br>
-
-<span style="font-size: 1.3em;"><span style="color:white">htt</span><span style="color:white">ps://git</span><span style="color: #e49436">pitch</span><span style="color: white">.com/<span style="color: #e49436">user</span>/<span style="color: #e49436">repo</span>/<span style="color: #e49436">branch</span></span>
-
-<br>
-
-Instantly use your GitPitch slideshow URL to promote, pitch or present absolutely anything.
 
 ---
 
