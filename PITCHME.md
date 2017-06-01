@@ -28,14 +28,14 @@ C'è stato pure il comitato OT11/OT2, e che è?
 
 ### Faccio uno schemetto: quale governance per gli Open Data?
 
-<code>
+<pre>
                     2013    2014    2015    2016    2017
 
 AGID                _____________________
 COMITATO OT11/OT2                     24/2/2015____
 FORUM OGP                                      6/6/2016_____
 TEAM DIGITALE                                      29/9/2016____ 
-</code>
+</pre>
 
 <br/>
 Se volete migliorarlo, meglio :) 
