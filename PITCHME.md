@@ -1,33 +1,39 @@
-![LOGO](https://d1z75bzl1vljy2.cloudfront.net/img/gp-logo.png)
 
-#### Get the word out
+#### Non fidarsi più dell'ennesima agenda: servono uno o più progetti di civic hacking
 <br>
-<span style="color:gray">Markdown Presentations For Everyone</span>
+<span style="color:gray">Matteo Brunati</span>
 <br>
-<span style="color:gray">on</span>
-<br>
-<span style="color:gray">GitHub, GitLab and Bitbucket</span>
+<span style="color:gray">[OpenDataFest 2017](http://www.opendatafest.it) - Caltanissetta</span>
+
+![LOGO](https://github.com/spaghetti-open-data/raduno17/blob/master/kit-comunicazione/logo/logo_opendatafest.png)
 
 ---
 
-### GitPitch turns <span style="color: #e49436; text-transform: none">PITCHME.md</span> into interactive, online slideshows.
+### Di cosa stiamo parlando
 <br>
-<span style="color:gray; font-size:0.6em;">[ JUST LIKE THIS ONE ]</span>
+- Agenda nazionale di valorizzazione del patrimonio informativo pubblico
+- Passato recente: 2013, 2014, 2015 e 2016
+- 2017 ovviamente :)
+- Piani di rilascio dei dati: **quali dataset aprire?**
 
 ---
 
-### No more <span style="color: #666666">Keynote.</span>
-### No more <span style="color: #666666">Powerpoint.</span>
-<br>
-### Just <span style="color: #e49436">Markdown</span>. Then <span style="color: #e49436">Git-Commit</span>.
+### Lo so, è difficile
+
+C'è stato pure il comitato OT11/OT2 
 
 ---
 
-<span style="color: #e49436">STEP 1. PITCHME.md</span>
+### Faccio uno schemetto: quale governance per gli Open Data?
 
-![MARKDOWN](https://d1z75bzl1vljy2.cloudfront.net/hello-world/markdown.png)
+                    2013    2014    2015    2016    2017
 
-Create GitPitch slideshow content using GitHub flavored Markdown in your favorite editor.
+AGID                _____________________
+COMITATO OT11/OT2                     24/2/2015____
+FORUM OGP                                      6/6/2016_____
+TEAM DIGITALE                                      29/9/2016____ 
+
+Se volete migliorarlo, meglio :) 
 
 ---
 
@@ -76,7 +82,3 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present absolutel
 - Under Git Version Control Within Your Git Repo
 
 
----
-
-### Go for it.
-### Just add <span style="color: #e49436; text-transform: none">PITCHME.md</span> ;)
