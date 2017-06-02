@@ -13,8 +13,8 @@
 - Agenda nazionale di valorizzazione del patrimonio informativo pubblico
 - Passato recente: 2013, 2014, 2015 e 2016
 - 2017 ovviamente :)
-- Piani di rilascio dei dati: **quali dataset aprire?**
-- Piano triennale ICT: da leggere :)
+- Una questione di panieri: **quali dataset aprire?**
+- Piano triennale ICT: da leggere, pubblicato il 31/5 :)
 
 ---
 
@@ -37,6 +37,7 @@ TEAM DIGITALE                                      29/9/2016____
 
 <br/>
 Se volete migliorarlo, meglio :) 
+<p>Tanti attori e molti processi/progetti che toccano gli Open Data</p>
 
 ---
 
@@ -50,6 +51,15 @@ Se volete migliorarlo, meglio :)
 ### Monitoraggio e risposte
 
 Servono dove ci sono delle porte aperte.
+
+
+---
+
+### Dati.gov.it: "sono solo Open Data"
+
+![Stato di datigovit](https://github.com/spaghetti-open-data/opengov-watchdog/raw/master/dati-gov-it/datigov-timeline-integrazione-dati_01.png)
+
+ repo su [github.com/spaghetti-open-data](https://github.com/spaghetti-open-data/opengov-watchdog): @vincpatruno & @dagoneye
 
 
 ---
