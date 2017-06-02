@@ -77,6 +77,7 @@ Partiamo dalla domanda di dati e da qualcosa che interessi e includa più person
 - Ricostruzione Trasparente
 - Inchieste sulla salute (Rosy Battaglia con l'<strong>amianto</strong>), l'alimentazione...
 - Vaccini: la recente inchiesta di Wired di Riccardo Saporiti integrata a n richieste FOIA
+- Adeguamento ai criteri antisismici delle scuole italiane: inchiesta #scuolesicure e recente pezzo di Davide Mancino su L'Espresso
 - **quale inseriresti?**
 
 
