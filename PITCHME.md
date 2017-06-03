@@ -12,9 +12,9 @@
 <br>
 - Agenda nazionale di valorizzazione del patrimonio informativo pubblico
 - Passato recente: 2013, 2014, 2015 e 2016
-- 2017 ovviamente :)
-- Una questione di panieri: **quali dataset aprire?**
-- Piano triennale ICT: da leggere, pubblicato il 31/5 :)
+- [2017 è in corso ovviamente](http://open.gov.it/monitora/1-agenda-nazionale/) :)
+- Una questione di **panieri di dati**: **quali dataset aprire?**
+- [Piano triennale ICT](https://pianotriennale-ict.italia.it/): da leggere, pubblicato il 31/5 :)
 
 ---
 
