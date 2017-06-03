@@ -20,16 +20,16 @@
 
 ### Lo so, è difficile
 
-C'è stato pure il comitato OT11/OT2, e che è?
+C'è stato pure il [comitato OT11/OT2](http://network.ot11ot2.it), e che è?
 
 ---
 
-### Faccio uno schemetto: quale governance per gli Open Data?
+### Faccio uno schemetto: <br/> quale governance per gli Open Data?
 
 <pre>
                     2013    2014    2015    2016    2017
 
-AGID                ____________________________________________
+AGID (agende)        ___________________________________________
 COMITATO OT11/OT2                     24/2/2015____
 FORUM OGP                                      6/6/2016_________
 TEAM DIGITALE                                      29/9/2016____ 
@@ -43,7 +43,7 @@ Se volete migliorarlo, meglio :)
 
 ### Serve esserci, ma a quali condizioni?
 
-<blockquote style="padding:25px">la democrazia non è uno sport da spettatori. Se tutti stanno a guardare e nessuno partecipa, non funziona più. - Michael Moore</blockquote>
+<blockquote style="padding:35px">la democrazia non è uno sport da spettatori. Se tutti stanno a guardare e nessuno partecipa, non funziona più. - Michael Moore</blockquote>
 
 
 ---
@@ -59,7 +59,8 @@ Servono dove ci sono delle porte aperte.
 
 ![Stato di datigovit](https://github.com/spaghetti-open-data/opengov-watchdog/raw/master/dati-gov-it/datigov-timeline-integrazione-dati_01.png)
 
- repo su [github.com/spaghetti-open-data](https://github.com/spaghetti-open-data/opengov-watchdog): @vincpatruno & @dagoneye
+ - repository su [github.com/spaghetti-open-data](https://github.com/spaghetti-open-data/opengov-watchdog): @vincpatruno & @dagoneye
+ - [issue dove se ne è discusso nel repo di datigovit](https://github.com/italia/dati.gov.it/issues/18)
 
 
 ---
@@ -89,5 +90,5 @@ A cosa serve tutto questo?
 
 ---
 
-Forse, a non dipendere più soltanto dalle agende: <br/> <strong> ci serve per fare più squadra</strong> e recuperare il fine vero: andare oltre
+Forse, a non dipendere più soltanto dalle agende: <br/> <strong> ci serve per fare più squadra</strong> e recuperare il fine vero:<br/><strong>andare oltre</strong>
 
